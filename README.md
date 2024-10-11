@@ -12,8 +12,6 @@
 📫 How to reach me - **sababathis09@gmail.com** </br>
 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1NLV-qZTmczeUwAcj3M2UO_yimf1HvwRn/view?usp=drive_link)** </br>
 
-![Sababathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sababathi-s&show_icons=true&theme=radical)
-
 ## **Tech Stack**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,3 +30,6 @@
 <a href="https://linkedin.com/in/sababathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sababathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sababathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sababathi" height="30" width="40" /></a>
 </p>
+
+## **Github Stats**
+![Sababathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sababathi-s&show_icons=true&theme=radical)
