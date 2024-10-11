@@ -5,11 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sababathi-s&label=Profile%20views&color=0e75b6&style=flat" alt="sababathi-s" /> </p>
 
-👩🏻‍💻 Software Engineer with more than 1.5 years experience </br>
-👩🏻‍🎓 Completed Bachelors at PSG College Of Technology </br>
+👩🏻‍💻 **Software Engineer** with more than 1.5 years experience </br>
+👩🏻‍🎓 Completed Bachelors at **PSG College Of Technology** </br>
 🌷 Driven by a strong aspiration to explore the realms of data science and big data. Eager to leverage technology skills in a data-centric role </br>
 💭 Currently learning about **Azure**! </br>
 📫 How to reach me - **sababathis09@gmail.com** </br>
 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1NLV-qZTmczeUwAcj3M2UO_yimf1HvwRn/view?usp=drive_link)** </br>
 
 ![Sababathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sababathi-s&show_icons=true&theme=radical)
+
+## **Tech Stack**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
