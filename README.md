@@ -10,7 +10,7 @@
 🌷 Driven by a strong aspiration to explore the realms of data science and big data. Eager to leverage technology skills in a data-centric role </br>
 💭 Currently learning about **Azure**! </br>
 📫 How to reach me - **sababathis09@gmail.com** </br>
-📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1NLV-qZTmczeUwAcj3M2UO_yimf1HvwRn/view?usp=drive_link)** </br>
+📄 Know about my experiences **[LinkedIn]("https://linkedin.com/in/sababathi")** </br>
 
 ## **Tech Stack**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
